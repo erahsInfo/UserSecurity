@@ -1,1 +1,1 @@
-hello,this is also a user data security project!
+hello,This is a project about user safety!
